@@ -1,6 +1,6 @@
 # TODO: add papers by configuration file
 base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
-user_name: "Vincentqyw"
+user_name: "626lt"
 repo_name: "cv-arxiv-daily"
 show_authors: True
 show_links: True
@@ -37,3 +37,9 @@ keywords:
                   "Line Segment Detection", "Local Feature Matching"]
     "NeRF":
         filters: ["NeRF"]
+    "3D Gaussian Splatting":
+        filters: ["Gaussing", "Splatting"]
+    "Reconstruction":
+        filters: ["Reconstruction"]
+    "Semantic":
+        filters: ["Semantic"]
